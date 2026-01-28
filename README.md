@@ -1,11 +1,10 @@
 # 👋 Sejam Bem-Vindos Pessoal
 
-Sou o Marcos Rian, um estudante pequeno com sonhos bem altos, estou me especializando constantemente em Back-End, eu amo resolver problemas mas também não é só isso
-juntamente com o Front-End adoro testar minha criatividade e fazer projetos que podem ser uteis para as empresas. Estou disponivel para vários desafios que estão á espera.
+Sou o Marcos Rian, um desenvolvedor curioso com sonhos bem altos, estou me especializando constantemente em Full Stack mais voltado especificamente em Back-end usando PHP e seus frameworks e ferramentas.
 
 # 🚀 Experiência
 
-Meu foco principal é trabalhar com novas tecnologias de acordo com o que for pedido, gosto de aprender novas ferramentas, templates e muitos frameworks, no momento estou me aprofundando em Node.js, React.js, PostgreSQL.<br>
+Meu foco principal é trabalhar com novas tecnologias de acordo com o que for pedido, gosto de aprender novas ferramentas, templates e muitos frameworks, no momento estou me aprofundando em PHP, Laravel, React.js, PostgreSQL.<br>
 Possuo conhecimento amplo também em WordPress, DevOps e ferramentas que envolvem containers usando Kubernets e aprendendo sobre o ansible.
 
 # 💻 Tecnologias que tenho conhecimento
